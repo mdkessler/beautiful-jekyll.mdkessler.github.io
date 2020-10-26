@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
+cover-img: "assets/img/HelloPersonV1.jpg"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Michael D. Kessler, and I am currently a postdoctoral fellow working on bioinformatic and cancer genomic research in the Department of Oncology at The Johns Hopkins University School of Medicine. Prior to this position, I studied cancer biology and genome science as a PhD student in Molecular Medicine at the University of Maryland School of Medicine.
