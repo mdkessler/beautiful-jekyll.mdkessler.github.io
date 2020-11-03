@@ -11,6 +11,9 @@ title: Michael D. Kessler
 # Your name to show in the footer
 author: Michael D. Kessler
 
+# moves blog to its own page (called "Blog")
+paginate_path: "/blog/page:num/"
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
