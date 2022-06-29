@@ -92,7 +92,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Kessler,Michael Kessler,Michael D. Kessler,Bioinformatics,Genomics,Cancer,Cancer Genomics,DNMs,De Novo Mutations,Biomedical Science,Cancer Ancestry,Mutations,Clinical Genomics, Bioinformatics Analysis, Bioinformatic Algorithms, Machine Learning, Beginners, Machine Learning Biology"
+keywords: "Kessler,Michael Kessler,Michael D. Kessler,Bioinformatics,Human Genetics,Cancer Genetics,Genomics,Cancer,Cancer Genomics,DNMs,De Novo Mutations,CHIP,Clonal Hematopoiesis,Biomedical Science,Cancer Ancestry,Mutations,Clinical Genomics, Bioinformatics Analysis, Bioinformatic Algorithms, Machine Learning, Beginners, Machine Learning Biology,Genetic Data Science,Genomic Data Science,Biological Data Science,Translational Genetics,Translational Bioinformatics,Translational Epidemiology,Epidemiology"
 
 # --- Colours / background image --- #
 
